@@ -11,12 +11,12 @@ https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=shar
 ## Project timeline: 3 months.
 
 ## Project breakdown by TASK model
-## **Situation**
+## Situation
 - The Case Company has a professional presence on LinkedIn but lacks a consistent strategy, engaging formats, and measurable performance tracking.
 - Content was published irregularly, lacked clear targeting, and engagement was low compared to competitors and industry standards.
 - Meanwhile, EU regulatory trends (sanctions, whistleblower protection, CSRD, etc.) created a timely opportunity for industry thought leadership, but content wasn’t fully capitalizing on this.
 
-**Task**
+## Task
 
 Based on the initial meeting, the questions asked and the answers received, a project development option was proposed through structuring the publication of posts on LinkedIn. I prepared a presentation on the stages and essence of the project, and also defined the roles, taking into account the motivation of the other 2 team members.
 
@@ -39,6 +39,29 @@ Based on the initial meeting, the questions asked and the answers received, a pr
 
  
 Data was processed from LinkedIn Analytics. In general I did 13 projects. The final project included 3 parts: main Exploratory and giving insights and summary project with visualisation in Tableau and presentation of thoughts in PowerPoint, then A/B tests and SQL query tasks.
+
+## Action
+**1.	Data Audit & Research**
+*	Reviewed 1 year of LinkedIn analytics
+*	Analyzed top posts by impressions, clicks, engagement
+*	Benchmarked against 9 competitors and followers audiences
+*	Reviewed Google Analytics and Bing performance on selected content
+**2.	Strategic Content Planning**
+*	Proposed a content calendar (3 posts/week: Tue – Hot Topic,  Wed – Legal Gym™, Fri – Light post)
+*	Designed the relaunch of the Legal Gym™️ weekly series (2 types: carousels and plain posts)
+*	Introduced Hot Topics Tuesday for timely legal alerts
+*	Provided recommendations on how to integrate subscription plans into content and CTA
+**3.	Execution**
+*	Drafted 20+ posts ahead of schedule, including carousels, visuals, and calls-to-action
+*	Created posts in multiple tones (company voice, personal profile tone, educational, soft CTA)
+*	Proposed optimized scheduling to avoid oversaturation
+*	Created branded post templates and lead magnets (e.g., carousels, CTA)
+**4.	Performance Monitoring**
+*	Analyzed engagement patterns week by week (LinkedIn Analytics)
+*	Provided insight that a 4-day consecutive posting reduced visibility
+*	Suggested replacing soft Friday posts with targeted webinar reminders when needed
+*	Maintained a live content tracker in Excel to ensure transparency and collaboration
+*	Designed Feedback Google Form
 
 **Used  tools and skills:**
 * Python (pandas, numpy, seaborn, matplotlib, plotly, re, scipy, translator);
