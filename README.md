@@ -40,7 +40,7 @@ Based on the initial meeting, the questions asked and the answers received, a pr
 I acted as the Project Lead and main strategic driver behind the LinkedIn performance and content optimization initiative.
 My role included project scoping, research design, direct client communication, data collecting and analysis, content strategy development, and post creation.
 I also coordinated the team’s work, assigned tasks, and ensured delivery timelines.
-In addition to building the overall structure and analytics framework, I independently conducted the Bing research, follower post data collection and sentiment analysis, created target personas, and proposed the final content calendar and CTA testing plan.
+In addition to building the overall structure and analytics framework, I independently conducted the Bing research, follower post data collection and sentiment analysis, analysed data on targets and mapped client personas, and proposed the final content calendar and CTA testing plan.
 One team member contributed to performance reporting and LinkedIn analytics, while another exited early without completing assigned deliverables.
 
 ## Action
