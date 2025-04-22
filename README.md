@@ -65,6 +65,7 @@ Data was processed from LinkedIn Analytics. In general I did 13 projects. The fi
 *	Suggested replacing soft Friday posts with targeted webinar reminders when needed
 *	Maintained a live content tracker in Excel to ensure transparency and collaboration
 *	Designed Feedback Google Form
+*	given final results, conclusions and recommendations
 
 **Used  tools and skills:**
 * Python (pandas, numpy, seaborn, matplotlib, plotly, re, scipy, translator);
