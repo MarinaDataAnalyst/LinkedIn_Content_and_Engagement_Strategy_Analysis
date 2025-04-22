@@ -10,6 +10,7 @@ https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=shar
 
 ## Project timeline: 3 months.
 
+## Project breakdown by TASK model
 ## **Situation**
 - The Case Company has a professional presence on LinkedIn but lacks a consistent strategy, engaging formats, and measurable performance tracking.
 - Content was published irregularly, lacked clear targeting, and engagement was low compared to competitors and industry standards.
@@ -24,12 +25,12 @@ Based on the initial meeting, the questions asked and the answers received, a pr
 
 **To-to list**
 
-•	Audit and analyze existing LinkedIn content and performance
-•	Benchmark activity and engagement levels vs key competitors and followers
-•	Create a sustainable, branded content strategy with clear messaging and post formats
-•	Launch new weekly formats and define a realistic publishing rhythm
-•	Ensure content was both compliant and engaging, while increasing visibility
-•	Lay the groundwork for long-term content tracking and performance analysis
+*	Audit and analyze existing LinkedIn content and performance
+*	Benchmark activity and engagement levels vs key competitors and followers
+*	Create a sustainable, branded content strategy with clear messaging and post formats
+*	Launch new weekly formats and define a realistic publishing rhythm
+*	Ensure content was both compliant and engaging, while increasing visibility
+*	Lay the groundwork for long-term content tracking and performance analysis
 
 **Roles:**
 - my role is a leader, communication with the client, data scraper and analyst
