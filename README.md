@@ -1,4 +1,4 @@
-### Content.
+## Content.
 
 <hr style="border: 2px  grey;" />
 This repository contains the project that I did during the Cooperation between companies and IMIB network, that aims to support international students in the development of working life skills.
@@ -10,7 +10,7 @@ https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=shar
 
 ## Project timeline: 3 months.
 
-**Situation**
+## **Situation**
 - The Case Company has a professional presence on LinkedIn but lacks a consistent strategy, engaging formats, and measurable performance tracking.
 - Content was published irregularly, lacked clear targeting, and engagement was low compared to competitors and industry standards.
 - Meanwhile, EU regulatory trends (sanctions, whistleblower protection, CSRD, etc.) created a timely opportunity for industry thought leadership, but content wasn’t fully capitalizing on this.
