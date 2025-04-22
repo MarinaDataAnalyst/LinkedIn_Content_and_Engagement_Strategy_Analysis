@@ -33,9 +33,9 @@ Based on the initial meeting, the questions asked and the answers received, a pr
 *	Lay the groundwork for long-term content tracking and performance analysis
 
 **Roles:**
-- my role is a leader, communication with the client, data scraper and analyst
+- my role is a project lead, strategist, researcher, data collector/scraper and analyst, project communicator and main content creator.
 - the role of the second participant is a data analyst (based on his own motivation)
-- the role of the third participant is a digital marketing specialist
+- the role of the third participant is a digital marketing specialist (based on his own motivation)
 
  
 Data was processed from LinkedIn Analytics. In general I did 13 projects. The final project included 3 parts: main Exploratory and giving insights and summary project with visualisation in Tableau and presentation of thoughts in PowerPoint, then A/B tests and SQL query tasks.
@@ -96,9 +96,4 @@ Data was processed from LinkedIn Analytics. In general I did 13 projects. The fi
 | Name                  | Description              | 
 | :---------------------| :------------------------|
 |[Analysis](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/AB_test_New_design)| jupyter notebooks with analysis of initial data and final results|
-|[A/B tests.](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/AB_test_Recomend.system)| Analysis of A/B test results after the introduction of a recommender system|
-|[Exploratory analysis of real estate market](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/Real_Estate)| Analysis of ads for the sale of apartments in St. Petersburg and its environs|
-|[Online-Shop Game Analysis](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/Games_Sales)| Identification of the success factors of the games|
-|[Analysis of the Online Books service](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/SQL)|Extracting data from the database using SQL Postgre|
-|[Business Analysis of a mobile app](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/Business_Indicators_Analysis)| LTV, Retention Rate, CTR, CAC, ROI, graphic visualisation|
-|[SQL](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/SQL)| Analysis of the subscription-based book reading service database. SQL Postgre, Python|
+
