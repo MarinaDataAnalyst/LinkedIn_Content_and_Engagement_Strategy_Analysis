@@ -87,7 +87,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 
 ## 5. Achieved Results  
 - Consistent, goal-aligned posting rhythm  
-- Noticeable lift in Legal Gym™ engagement  
+- Noticeable lift in Educational series engagement  
 - Improved click-through quality (higher CTR)  
 - Renewed partner interest in repurposing content  
 - Delivered an internal presentation with actionable insights  
