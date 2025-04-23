@@ -81,7 +81,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **Statistics & Testing:** ANOVA, Kruskal–Wallis, Mann–Whitney U, bootstrap, effect size  
 - **Content:** Persona mapping, A/B testing, content ideation, ChatGPT-assisted writing  
-- **Presentation:** PowerPoint / Keynote
+- **Presentation:** PowerPoint 
 
 ---
 
