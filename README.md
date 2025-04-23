@@ -31,7 +31,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 **Scope & Constraints:**  
 - Budget: €0 (limited tools)  
 - Team:  
-  - **You (Project Lead):** Strategy, research, data collection, analysis, content creation, stakeholder communication  
+  - **Me (Project Lead):** Strategy, research, data collection, analysis, content creation, stakeholder communication  
   - **Data Analyst:** Assisted with LinkedIn analytics, interim reports, draft content  
   - **Digital Marketer:** Participated in initial meetings; did not contribute to execution  
 
