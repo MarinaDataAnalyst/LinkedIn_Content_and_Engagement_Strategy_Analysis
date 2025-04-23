@@ -45,7 +45,7 @@ One team member contributed to performance reporting and LinkedIn analytics, whi
 
 ## Action
 **1.	Data Audit & Research**
-*	Reviewed 1 year of LinkedIn analytics (2nd role at the beginning, 1st role at the and including analysing posting campaign and comparing periods, given in )
+*	Reviewed 1 year of LinkedIn analytics (2nd role at the beginning) 
 *	Analyzed top posts by impressions, clicks, reactions and engagement
 *	Benchmarked against nine competitors and followers audiences (1st role)
 *	Reviewed Google Analytics and Bing performance on selected content
@@ -68,6 +68,7 @@ One team member contributed to performance reporting and LinkedIn analytics, whi
 *	Suggested replacing soft Friday posts with targeted webinar reminders when needed
 *	Maintained a live content tracker in Excel to ensure transparency and collaboration
 *	Designed Feedback Google Form
+*	*	Reviewed 1 year of LinkedIn analytics (1st role, including analysing posting campaign and comparing periods, statistical significance given in final_analysis.ipynb)
 *	given final results, conclusions and recommendations
 
 **Used  tools and skills:**
