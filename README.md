@@ -1,8 +1,8 @@
 ## Content.
 
 <hr style="border: 2px  grey;" />
-This repository contains the project that I did during the Cooperation between companies and IMIB network, that aims to support international students in the development of working life skills.
-
+This repository contains the project I completed during the Cooperation between companies and the IMIB network. The project aims to support international students in developing work-life skills, finding a job in Finland, or seeking cooperation for their thesis work.
+<hr style="border: 2px  grey;" />
 Information could be found by link:
 https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPUQY4BnVEyMAvA6GrC6PxgNsJ-Um0g1rQ
 
