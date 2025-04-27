@@ -99,7 +99,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 
 | Folder     | Description                                    |
 |------------|------------------------------------------------|
-| `Analysis` | Jupyter notebooks with initial data audits, cohort comparisons, statistical tests, and final results |
+| [Analysis](https://github.com/MarinaDataAnalyst/LinkedIn_Content_Management/tree/main/analysis) | Jupyter notebooks with initial data audits, cohort comparisons, statistical tests, and final results |
 
 ## 7. Team Reflections
 
