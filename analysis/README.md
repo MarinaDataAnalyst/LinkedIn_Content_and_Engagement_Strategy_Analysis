@@ -12,7 +12,7 @@ Welcome to the LinkedIn Analytics Notebook! This project walks you through a com
 > **Note:** The raw Excel files are not included in this repository for confidentiality reasons.  
 > Please place them in the `data/` directory before running the notebook.
 > 
-**Role:** Data Analyst / ML Engineer  
+**Role:** Project Lead  
 **Expected input files (example names):**
 - `data/content_1year_anonym.xlsx`
 - `data/content_1month_anonym.xlsx`
