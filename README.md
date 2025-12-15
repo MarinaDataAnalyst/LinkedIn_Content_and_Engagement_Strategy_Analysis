@@ -99,7 +99,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 
 | Folder     | Description                                    |
 |------------|------------------------------------------------|
-| [Analysis](https://github.com/MarinaDataAnalyst/LinkedIn_Content_Management/tree/main/analysis) | Jupyter notebooks with initial data audits, cohort comparisons, statistical tests, and final results |
+| [Analysis](https://github.com/MarinaDataAnalyst/LinkedIn_Content_Management/tree/main/analysis) | Jupyter notebooks with initial data audits, cohort comparisons after launching posting campaign, statistical tests, and final results |
 
 ## 7. Team Reflections
 
@@ -108,15 +108,15 @@ This repository contains the project executed in partnership with the IMIB netwo
 - **Contributions breakdown:**  
   - **Project Lead (Myself):**  
     - Refined a broad challenge into a focused 3-month plan  
-    - Conducted all core analyses (cohort comparisons, statistical testing, Q–Q plots, bootstrap intervals)  
+    - Conducted all core analyses (cohort comparisons, statistical testing, Q–Q plots, bootstrap intervals) - presented in 'analysis' folder.
     - Developed the content strategy, drafted and designed post templates, and produced the final copy  
     - Created all presentations, led team discussions, and communicated results to the client  
     - Oversaw performance monitoring, interpreted LinkedIn metrics, and documented insights  
     - Coordinated team activities, maintained scope control, and ensured timely delivery  
   - **Team Member:**  
-    - Provided LinkedIn analytics in the form of an internal report using LinkedIn-generated charts  
+    - Provided LinkedIn analytics in the Word doc. form of an internal report using LinkedIn-generated charts  
     - Supported content creation by reviewing drafts and offering suggestions  
-    - Contributed high-level observations on engagement trends  
+    - Contributed observations on engagement trends using LinkedIn internal charts and analytics
 
 Despite different focus areas, both contributors played a role in delivering a clear, data-driven LinkedIn strategy with measurable improvements in engagement. I’m proud of how we turned an ambitious goal into concrete results within a tight timeframe, while fostering collaboration and maintaining project scope.   
 
