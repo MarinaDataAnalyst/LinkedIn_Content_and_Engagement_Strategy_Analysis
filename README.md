@@ -32,7 +32,67 @@ Three time-based cohorts were analysed:
 | **2024_same_period**  | Mar 20, 2024 – Apr 20, 2024            | Mar 20, 2024 – Apr 20, 2024             |
 | **2025_campaign**     | Mar 20, 2025 – Apr 20, 2025            | Mar 20, 2025 – Apr 20, 2025             |
 
+This structure enabled controlled comparison between organic activity and campaign-driven content.
 
+## Analytical Approach
+
+## 1. Content Performance Analysis
+
+- Time-series analysis of impressions, clicks, engagement rate and CTR
+- Comparison of performance distributions across cohorts
+- Identification of outliers and performance variability
+- Weekday-based performance patterns
+
+## 2. Audience Analysis
+
+- Trends in new visitors and followers
+- Growth rate comparisons across cohorts
+- Segmentation by country, industry, company size, job function and seniority
+- Identification of dominant audience segments
+
+## 3. Content–Engagement Relationship
+
+- Alignment of posting dates with visitor and follower peaks
+- Lag and cross-correlation analysis to detect indirect content impact
+- Noise reduction via moving averages
+
+## Key Insights
+
+- With limited posting volume, observed performance differences are directionally positive but not yet statistically robust
+- Content consistency and frequency are critical drivers of visibility
+- Certain weekdays show systematically higher median CTR
+- Audience growth patterns suggest indirect effects of content rather than immediate spikes
+- Reliable predictive modelling requires a higher and more stable content volume
+
+## Strategic Recommendations
+
+- Increase posting frequency to 3 posts per week to reach statistically reliable sample sizes within 4–6 months
+- Standardise posting days and formats to reduce noise
+- Expand tracked features (format, text length, posting time, audience segment)
+- Continue descriptive monthly reviews focusing on medians and confidence intervals
+- Plan predictive modelling and A/B testing once sufficient data volume is achieved
+
+## Deliverables
+
+- Dashboard-ready charts and analytical tables
+- Management-level slide deck with narrative insights
+- Actionable content strategy roadmap aligned with business objectives
+
+## Role & Skills Demonstrated
+
+**Role: Project Lead**
+- Business-oriented data analysis and KPI interpretation
+- Strategic content and audience segmentation
+- Translating analytics into clear management recommendations
+- Structuring long-term optimisation roadmaps
+
+## Tools & Methods (Technical Appendix)
+
+- **Data analysis:** Python (pandas, numpy, scipy)
+- **Statistics:** non-parametric testing, bootstrap confidence intervals
+- **Time series:** trend analysis, cross-correlation, moving averages
+- **Visualisation:** Matplotlib, Seaborn, PowerPoint
+- **Data privacy:** anonymisation best practices
 
 ## Repository Structure
 | Folder     | Description                                    |
